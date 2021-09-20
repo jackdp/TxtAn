@@ -1,0 +1,7 @@
+Command line: TxtAn64  *.pas *.lpr -r 100 -s 
+Processed files: 6
+Total size: 27.86 KB
+Elapsed time: 00:00:00.006
+All lines: 1 171
+All blank lines: 282
+All not blank lines: 889 
